@@ -11,4 +11,4 @@ The data was 31.09 GB and would have to undergo exploratory data analysis, featu
     Root Mean Squared Error: “119.36465702019076”
     R-Squared:  “0.5151452061893984” ,
     
-    With these values in mind, I was suggested on changing the parameter grid with some variations in regularization and elastic net, but the Root Mean Squared Error and R squared remained consistent with minor changes. The regression model was not able to fully accurately predict the flight price, however conclusions regarding the effect of travel duration on total price and its correlation among other features was notable during the visualization process. 
+With these values in mind, I was suggested on changing the parameter grid with some variations in regularization and elastic net, but the Root Mean Squared Error and R squared remained consistent with minor changes. The regression model was not able to fully accurately predict the flight price, however conclusions regarding the effect of travel duration on total price and its correlation among other features was notable during the visualization process. 
