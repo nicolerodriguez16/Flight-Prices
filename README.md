@@ -1,7 +1,7 @@
 # Flight-Prices
 
 Source: Kaggle: 
-[Flight Prices] (https://www.kaggle.com/datasets/dilwong/flightprices/data)
+[Flight Prices](https://www.kaggle.com/datasets/dilwong/flightprices/data)
 
 The research I have chosen for the semester-long machine learning project is “Flight Prices One-way flights found on Expedia between 2022-04-16 and 2022-10-05”(31.09 GB) from Kaggle. The dataset contains information and background about “CSV file where each row is a purchasable ticket found on Expedia between 2022-04-16 and 2022-10-05, to/from the following airports: ATL, DFW, DEN, ORD, LAX, CLT, MIA, JFK, EWR, SFO, DTW, BOS, PHL, LGA, IAD, OAK.”
 
