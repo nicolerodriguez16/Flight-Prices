@@ -1,4 +1,4 @@
-# Milestone 3:  Exploratory Data Analysis(EDA)
+# Milestone:  Exploratory Data Analysis(EDA)
 
 For the third milestone, the exploratory data analysis was performed on the Flight Prices dataset from Kaggle.  This included, understanding the data(viewing columns, rows, min/max/count (1) of numeric and date columns, relationships amongst features and the label etc) as well as cleaning the data by removing null/missing values.
 

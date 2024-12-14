@@ -1,4 +1,4 @@
-# Milestone 5:  Exploratory Data Analysis(EDA)
+# Milestone:  Exploratory Data Analysis(EDA)
 
 For milestone 5 we were instructed to create visualizations for the data and prediction results that have allowed for a deeper understanding of the data at hand. Through these visualizations, a story can be created.
 
